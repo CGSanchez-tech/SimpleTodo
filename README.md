@@ -16,9 +16,8 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-![walkthrough](https://user-images.githubusercontent.com/72993271/130556326-2a0c3ce5-8729-419b-b246-04404f1c9cf7.gif)
+![simpletodo](https://user-images.githubusercontent.com/72993271/131278849-e2b23d37-dc5d-4212-a646-4c5be0ece187.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
